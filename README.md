@@ -8,7 +8,7 @@
 
 ### 2. Fork and Run Locally
 
-[Fork](https://github.com/unchained-capital/e2e-interview-test#fork-destination-box) this project.
+Fork this project.
 
 After forking this project in `Github`, run these commands:
 
@@ -42,7 +42,7 @@ Look in that file for `// TODO:` comments and add tests in those places.
 ## Running Tests
 
 ### Run the tests in headless mode
-You can run the tests once in headless mode to check they are passing:
+You can run the tests in headless mode to quickly check they are passing:
 
 ```bash
 npm run test
@@ -52,7 +52,7 @@ npm run test
 
 It can be useful to open cypress in dev mode in order to see what your tests are doing.
 
-First quit out of the `npm start` above if you still have it running.
+(Note: be sure to quit out of the `npm start` above if you still have it running)
 
 ```bash
 npm run dev
